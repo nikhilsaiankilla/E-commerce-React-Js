@@ -1,0 +1,204 @@
+{
+    "products": [
+        {
+            "id": "p2",
+            "title": "Beautiful Brown Saree",
+            "oldPrice": 8999,
+            "price": 7999,
+            "isNew": true,
+            "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam inventore, fugit, sapiente mollitia atque, rem saepe veritatis quos laudantium soluta velit architecto modi.",
+            "img-2": "https://images.pexels.com/photos/19279728/pexels-photo-19279728/free-photo-of-woman-posing-in-an-elegant-saree-dress-and-jewelry.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "img-1": "https://images.pexels.com/photos/19279714/pexels-photo-19279714/free-photo-of-woman-posing-in-an-elegant-saree-dress-and-jewelry.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "id": "p4",
+            "title": "Children dress at 999",
+            "oldPrice": 1999,
+            "price": 999,
+            "isNew": false,
+            "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam inventore, fugit, sapiente mollitia atque, rem saepe veritatis quos laudantium soluta velit architecto modi.",
+            "img-1": "https://images.pexels.com/photos/3614523/pexels-photo-3614523.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "img-2": false
+        },
+        {
+            "id": "p6",
+            "title": "White T-shirt for women",
+            "oldPrice": 999,
+            "price": 699,
+            "isNew": false,
+            "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam inventore, fugit, sapiente mollitia atque, rem saepe veritatis quos laudantium soluta velit architecto modi.",
+            "img-1": "https://images.unsplash.com/photo-1603217039640-afce9bb7d785?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHRvcHN8ZW58MHx8MHx8fDA%3D",
+            "img-2": "https://images.unsplash.com/photo-1603217192766-e9db2d08a0fc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8dG9wc3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "p1",
+            "title": "Women Black Dress",
+            "oldPrice": 2999,
+            "price": 1999,
+            "isNew": false,
+            "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam inventore, fugit, sapiente mollitia atque, rem saepe veritatis quos laudantium soluta velit architecto modi.",
+            "img-1": "https://images.pexels.com/photos/19432774/pexels-photo-19432774/free-photo-of-woman-posing-in-black-dress.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "img-2": "https://images.pexels.com/photos/19432762/pexels-photo-19432762/free-photo-of-portrait-of-brunette-woman-wearing-black-dress.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "id": "p5",
+            "title": "Cream top for women",
+            "oldPrice": 1599,
+            "price": 1199,
+            "isNew": 1,
+            "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam inventore, fugit, sapiente mollitia atque, rem saepe veritatis quos laudantium soluta velit architecto modi.",
+            "img-1": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?q=80&w=1905&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "img-2": "https://media.istockphoto.com/id/1354969936/photo/women-fashion-winter-clothes-and-accessories-female-look-with-knitted-sweater-pullover-scarf.webp?s=170667a&w=0&k=20&c=OxqhoYJhrQIeDD5OMqQEAJk_yAbW0eSijKNCi7Mtoqg="
+        },
+        {
+            "id": "p8",
+            "title": "Nike Red Shoes",
+            "oldPrice": 9999,
+            "price": 7999,
+            "isNew": 1,
+            "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam inventore, fugit, sapiente mollitia atque, rem saepe veritatis quos laudantium soluta velit architecto modi.",
+            "img-2": "https://images.unsplash.com/photo-1695748966450-3abe5c25b481?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D",
+            "img-1": "https://images.unsplash.com/photo-1695697104675-429f5fcdede6?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": "p17",
+            "title": "Women Grey Sweatshirst",
+            "oldPrice": 3999,
+            "price": 2999,
+            "isNew": false,
+            "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam inventore, fugit, sapiente mollitia atque, rem saepe veritatis quos laudantium soluta velit architecto modi.",
+            "img-1": "https://images.pexels.com/photos/6311392/pexels-photo-6311392.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "img-2": "https://images.pexels.com/photos/6311387/pexels-photo-6311387.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        },
+        {
+            "id": "p11",
+            "title": "Yellow Black Checks For Mens",
+            "oldPrice": 2999,
+            "price": 1999,
+            "isNew": 1,
+            "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam inventore, fugit, sapiente mollitia atque, rem saepe veritatis quos laudantium soluta velit architecto modi.",
+            "img-1": "https://images.unsplash.com/photo-1607345366928-199ea26cfe3e?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "img-2": "https://fiasdeals.com/wp-content/uploads/2022/04/phil-monte-4V4t0JcOM5E-unsplash-e1650349209652.jpg"
+        },
+        {
+            "id": "p7",
+            "title": "Women Black Dress",
+            "oldPrice": 2999,
+            "price": 1999,
+            "isNew": 1,
+            "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam inventore, fugit, sapiente mollitia atque, rem saepe veritatis quos laudantium soluta velit architecto modi.",
+            "img-1": "https://images.pexels.com/photos/19432774/pexels-photo-19432774/free-photo-of-woman-posing-in-black-dress.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "img-2": "https://images.pexels.com/photos/19432762/pexels-photo-19432762/free-photo-of-portrait-of-brunette-woman-wearing-black-dress.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "id": "p12",
+            "title": "Women Blue jeans",
+            "oldPrice": 2999,
+            "price": 1999,
+            "isNew": 1,
+            "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam inventore, fugit, sapiente mollitia atque, rem saepe veritatis quos laudantium soluta velit architecto modi.",
+            "img-1": "https://images.pexels.com/photos/2343661/pexels-photo-2343661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "img-2": "https://images.pexels.com/photos/8788622/pexels-photo-8788622.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        },
+        {
+            "id": "p13",
+            "title": "Double Pocket shirt for men",
+            "oldPrice": 2999,
+            "price": 1999,
+            "isNew": 1,
+            "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam inventore, fugit, sapiente mollitia atque, rem saepe veritatis quos laudantium soluta velit architecto modi.",
+            "img-1": "https://images.pexels.com/photos/19425773/pexels-photo-19425773/free-photo-of-portrait-of-a-man-in-an-orange-shirt.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "img-2": "https://images.pexels.com/photos/19425770/pexels-photo-19425770/free-photo-of-portrait-of-a-man-wearing-orange-shirt.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "id": "p3",
+            "title": "Black suit for women",
+            "oldPrice": 5999,
+            "price": 4999,
+            "isNew": true,
+            "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam inventore, fugit, sapiente mollitia atque, rem saepe veritatis quos laudantium soluta velit architecto modi.",
+            "img-1": "https://images.pexels.com/photos/17590567/pexels-photo-17590567/free-photo-of-studio-shot-of-a-young-woman-in-a-suit.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "img-2": "https://images.pexels.com/photos/17590579/pexels-photo-17590579/free-photo-of-studio-shot-of-a-young-woman-in-a-suit.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        },
+        {
+            "id": "p14",
+            "title": "Yellow Black Traditional Dress For Women",
+            "oldPrice": 2999,
+            "price": 1999,
+            "isNew": 1,
+            "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam inventore, fugit, sapiente mollitia atque, rem saepe veritatis quos laudantium soluta velit architecto modi.",
+            "img-1": "https://images.pexels.com/photos/8819773/pexels-photo-8819773.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "img-2": "https://images.pexels.com/photos/8819578/pexels-photo-8819578.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "id": "p15",
+            "title": "Blue Dress for Women",
+            "oldPrice": 2999,
+            "price": 1999,
+            "isNew": 1,
+            "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam inventore, fugit, sapiente mollitia atque, rem saepe veritatis quos laudantium soluta velit architecto modi.",
+            "img-1": "https://images.pexels.com/photos/14148167/pexels-photo-14148167.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+            "img-2": "https://images.pexels.com/photos/14148169/pexels-photo-14148169.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        },
+        {
+            "id": "p18",
+            "title": "black sweat shirst for Men",
+            "oldPrice": 2999,
+            "price": 1999,
+            "isNew": 1,
+            "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam inventore, fugit, sapiente mollitia atque, rem saepe veritatis quos laudantium soluta velit architecto modi.",
+            "img-1": "https://images.pexels.com/photos/6311628/pexels-photo-6311628.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "img-2": "https://images.pexels.com/photos/6311629/pexels-photo-6311629.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        },
+        {
+            "id": "p9",
+            "title": "Nike Green Shoes",
+            "oldPrice": 12999,
+            "price": 9999,
+            "isNew": 1,
+            "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam inventore, fugit, sapiente mollitia atque, rem saepe veritatis quos laudantium soluta velit architecto modi.",
+            "img-1": "https://images.unsplash.com/photo-1698609467326-fab7045d773c?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "img-2": "https://images.unsplash.com/photo-1699198489130-2e02f3726612?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D"
+        },
+        {
+            "id": "p20",
+            "title": "Blue Formal Shirst for Men",
+            "oldPrice": 1999,
+            "price": 1499,
+            "isNew": false,
+            "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam inventore, fugit, sapiente mollitia atque, rem saepe veritatis quos laudantium soluta velit architecto modi.",
+            "img-1": "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "img-2": "https://images.unsplash.com/photo-1623880840102-7df0a9f3545b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDV8fHxlbnwwfHx8fHw%3D"
+        },
+        {
+            "id": "p16",
+            "title": "Blue Traditional kurta ",
+            "oldPrice": 2999,
+            "price": 1999,
+            "isNew": 1,
+            "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam inventore, fugit, sapiente mollitia atque, rem saepe veritatis quos laudantium soluta velit architecto modi.",
+            "img-1": "https://images.pexels.com/photos/8818722/pexels-photo-8818722.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "img-2": "https://images.pexels.com/photos/8818726/pexels-photo-8818726.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "id": "p10",
+            "title": "Nike Printed White T-shirt for mens",
+            "oldPrice": 1599,
+            "price": 1199,
+            "isNew": 1,
+            "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam inventore, fugit, sapiente mollitia atque, rem saepe veritatis quos laudantium soluta velit architecto modi.",
+            "img-1": "https://images.unsplash.com/photo-1600525990321-9b74f0b86cdc?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "img-2": "https://images.unsplash.com/photo-1564859228273-274232fdb516?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": "p19",
+            "title": "Black Suit For Men",
+            "oldPrice": 2999,
+            "price": 1999,
+            "isNew": false,
+            "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam inventore, fugit, sapiente mollitia atque, rem saepe veritatis quos laudantium soluta velit architecto modi.",
+            "img-1": "https://images.unsplash.com/photo-1617127365659-c47fa864d8bc?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "img-2": "https://images.unsplash.com/photo-1617113930975-f9c7243ae527?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D"
+        }
+    ]
+}

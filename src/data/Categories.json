@@ -1,0 +1,20 @@
+{
+    "categories": [
+      {
+        "id" : "c1",
+        "name" : "Men",
+        "image" : "https://images.pexels.com/photos/1300550/pexels-photo-1300550.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id" : "c2",
+        "name" : "Women",
+        "image" : "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id" : "c3",
+        "name" : "Children",
+        "image" : "https://images.pexels.com/photos/3121075/pexels-photo-3121075.jpeg?auto=compress&cs=tinysrgb&w=600"
+      }
+    ]
+  }
+  
